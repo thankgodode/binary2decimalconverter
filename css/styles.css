@@ -57,3 +57,9 @@ main button:hover {
   margin: 0.3rem;
   margin: 0.3rem 0;
 }
+
+@media screen and (max-width: 670px){
+  main{
+    width: 350px;
+  }
+}
